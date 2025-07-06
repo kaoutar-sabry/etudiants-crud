@@ -50,11 +50,11 @@ DB_HOST=127.0.0.1 DB_PORT=3307 DB_DATABASE=etudiants
 ## Captures d’écran 
 ## Captures d’écran 
 - **Figure 1 : Liste avec un étudiant**  
-  ![Liste avec étudiant](captures/liste_avec_etudiant.png)  
+  ![Liste avec étudiant](resources/views/etudiants/captures/liste_avec_etudiants.png)  
 - **Figure 2 : Ajout d’un étudiant**  
-  ![Formulaire ajout](captures/formulaire_ajout.png)  
+  ![Formulaire ajout](resources/views/etudiants/captures/formulaire_ajout.png)  
 - **Figure 3 : Base de données**  
-  ![Table étudiants](captures/table_etudiants.png) 
+  ![Table étudiants](resources/views/etudiants/captures/table_etudiants.png) 
 
 ## Conclusion
 Ce mini-projet m'a permis de découvrir les bases de Laravel, notamment son architecture MVC, la gestion des migrations, et l'utilisation des vues Blade. Le framework facilite le développement grâce à ses commandes artisan et sa structure organisée.
